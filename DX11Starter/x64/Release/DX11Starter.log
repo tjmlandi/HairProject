@@ -1,0 +1,3 @@
+﻿D:\Documents\RIT\Game Graphics Programming\DX11Starter\DX11Starter\PixelShader.hlsl(27,34-44): error X4502: invalid vs_2_0 output semantic 'SV_TARGET'
+  
+  compilation failed; no code produced

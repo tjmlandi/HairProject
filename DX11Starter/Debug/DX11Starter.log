@@ -1,0 +1,5 @@
+﻿  Game.cpp
+c:\users\thomas\documents\thomaslandiassignment6\dx11starter\game.cpp(38): warning C4316: 'Camera': object allocated on the heap may not be aligned 16
+c:\users\thomas\documents\thomaslandiassignment6\dx11starter\game.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\thomas\documents\thomaslandiassignment6\dx11starter\game.cpp(97): warning C4305: 'argument': truncation from 'double' to 'float'
+  DX11Starter.vcxproj -> C:\Users\Thomas\Documents\ThomasLandiAssignment6\DX11Starter\Debug\DX11Starter.exe
